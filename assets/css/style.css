@@ -76,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Until next comment all of this is redundant and needs to be modified */
 .benefits {
     margin-left: 10px;
     margin-right: 20px;
@@ -136,6 +136,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*From here below it is main content */
 
 .search-engine-optimization {
     margin-bottom: 20px;
